@@ -6,10 +6,12 @@ Examen de Ingreso: Full Stack Senior React
 Replica este elemento: Checkbox de países:
 
 -Ejemplo deseleccionados:
+
 ![image](https://github.com/jonathan-messina/checkbox-test/assets/76606183/899d5102-abf5-4472-bcc2-d588f78cf0e9)
 
 -Ejemplo Seleccionados:
-![image](https://github.com/jonathan-messina/checkbox-test/assets/76606183/ffcdf5bf-d0b8-484c-b0e9-2a0898cb4916)
+
+![image](https://github.com/jonathan-messina/checkbox-test/assets/76606183/ffcdf5bf-d0b8-484c-b0e9-2a0898cb4916 class="medium")
 
 Requisitos:
 - Se deben poder seleccionar individualmente los países
