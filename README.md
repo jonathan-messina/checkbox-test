@@ -11,7 +11,7 @@ Replica este elemento: Checkbox de países:
 
 -Ejemplo Seleccionados:
 
-![image](https://github.com/jonathan-messina/checkbox-test/assets/76606183/ffcdf5bf-d0b8-484c-b0e9-2a0898cb4916 class="medium")
+![image](https://github.com/jonathan-messina/checkbox-test/assets/76606183/ffcdf5bf-d0b8-484c-b0e9-2a0898cb4916)
 
 Requisitos:
 - Se deben poder seleccionar individualmente los países
