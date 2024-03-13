@@ -8,8 +8,8 @@ type Props = {
 
 export const Checkbox = React.memo(({ country, isSelected, onChange }: Props) => {
   return (
-    <li className="group hover:bg-lime-600/80">
-      <label className="font-mono group-hover:text-black/90 text-lime-600/80 cursor-pointer">
+    <li className="group hover:bg-lime-600/80 pt-3 md:pt-1">
+      <label className="font-mono text-xl truncate group-hover:text-black/90 text-lime-600/80 cursor-pointer">
         <input
           className="mr-2 text-red-900 checked:accent-lime-600/80 cursor-pointer"
           type="checkbox"

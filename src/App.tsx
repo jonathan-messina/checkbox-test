@@ -31,12 +31,12 @@ function App() {
 
   return (
     <>
-      <section className="h-screen w-screen bg-black/90 flex justify-center pt-20">
-        <div className="flex flex-col w-min h-min border px-20 py-10 gap-6 bg-black/80 border-lime-600/80 shadow rounded-2xl shadow-lime-400  ">
+      <section className="h-screen w-screen bg-black/90 flex justify-center items-center">
+        <div className="flex flex-col w-min xl:w-1/2 h-min xl:justify-center xl:items-center border px-20 py-10 gap-6 bg-black/80 border-lime-600/80 shadow rounded-2xl shadow-lime-400  ">
           <h1 className=" text-lime-600/80  text-center text-2xl font-mono">Checkbox Challenge</h1>
           <ul>
             <li className="group hover:bg-lime-600/80 ">
-              <label className="font-mono text-lime-600/80 group-hover:text-black/90 cursor-pointer">
+              <label className="font-mono text-xl text-lime-600/80 group-hover:text-black/90 cursor-pointer truncate">
                 <input
                   type="checkbox"
                   id="selectAll"
