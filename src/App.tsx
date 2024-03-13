@@ -1,6 +1,4 @@
 import { useState, useCallback, useMemo } from "react";
-
-import "./App.css";
 import { Checkbox } from "./components/Checkbox";
 
 const countries: string[] = ["Spain", "India", "USA", "France", "Germany"];

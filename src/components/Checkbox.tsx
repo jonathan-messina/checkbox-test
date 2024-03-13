@@ -16,7 +16,6 @@ export const Checkbox = React.memo(({ country, isSelected, onChange }: Props) =>
           checked={isSelected}
           onChange={(e) => onChange(e.target.checked)}
         />
-
         {country}
       </label>
     </li>
